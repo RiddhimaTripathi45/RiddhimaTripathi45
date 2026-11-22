@@ -78,12 +78,25 @@ I'm an aspiring AI/ML Developer and Computer Science student passionate about te
 </p>
 
 ---
-<p>
-### <img src="https://img.shields.io/badge/01-REAL--TIME%20SYSTEMS-0891B2?style=for-the-badge"/> Smart EV Charging Management System
-</p>
-**Smart Charging · Station Discovery · Booking Platform**
 
-A smart EV charging platform designed to simplify EV charging through station discovery, recommendations and booking features.
+<hr/>
+
+<h2>🚀 Projects</h2>
+
+<p>FOUR SELECTED BUILDS · REAL-WORLD ENGINEERING & DEVELOPMENT</p>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/01-REAL--TIME%20SYSTEMS-0891B2?style=for-the-badge"/>
+</p>
+
+<h2>⚡ Smart EV Charging Management System</h2>
+
+<blockquote>
+  <strong>Smart Charging · Station Discovery · Booking Platform</strong><br/>
+  A smart EV charging platform designed to simplify EV charging through station discovery, recommendations and booking features.
+</blockquote>
 
 <p>
   <a href="https://github.com/RiddhimaTripathi45/Smart-EV-charging-management-system">
@@ -94,7 +107,7 @@ A smart EV charging platform designed to simplify EV charging through station di
   </a>
 </p>
 
-**⚡ Key Features**
+### ⚡ Key Features
 
 - 🔋 EV charging station discovery
 - 📍 Location-based station recommendations
@@ -102,18 +115,34 @@ A smart EV charging platform designed to simplify EV charging through station di
 - 👤 User-friendly charging management interface
 - 🗄️ Database integration using Supabase
 
-**Technology Stack**
+### 🛠️ Technology Stack
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,ts,supabase,postgres"/>
 </p>
 
-**System Architecture**
+### 🏗️ System Architecture
 
-`React Frontend → Supabase → PostgreSQL Database → EV Charging Data`
+<table align="center">
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/01-REACT%20FRONTEND-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <br/><sub>User Interface</sub>
+</td>
+<td align="center"><h2>→</h2></td>
+<td align="center">
+  <img src="https://img.shields.io/badge/02-SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <br/><sub>Backend Services</sub>
+</td>
+<td align="center"><h2>→</h2></td>
+<td align="center">
+  <img src="https://img.shields.io/badge/03-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br/><sub>Database</sub>
+</td>
+</tr>
+</table>
+
+<hr/>
 
 ---
 
@@ -129,16 +158,18 @@ A smart EV charging platform designed to simplify EV charging through station di
 ## 🧠 Problem Solving
 
 <p align="center">
-  <b>CONSISTENCY · LOGIC · CONTINUOUS IMPROVEMENT</b>
+  CONSISTENCY · LOGIC · CONTINUOUS IMPROVEMENT
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" width="90%" alt="LeetCode Statistics"/>
+  <a href="https://leetcode.com/u/Riddhi_45/">
+    <img src="https://leetcard.jacoblin.cool/Riddhi_45?theme=dark&font=Baloo&ext=heatmap&cache=60" width="90%" alt="Riddhima's Live LeetCode Statistics"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/LEETCODE-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://leetcode.com/u/Riddhi_45/">
+    <img src="https://img.shields.io/badge/LEETCODE-VISIT%20MY%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
