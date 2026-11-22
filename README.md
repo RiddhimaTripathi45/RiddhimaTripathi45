@@ -24,36 +24,18 @@
   <img src="https://img.shields.io/badge/Problem%20Solving-ECBDD8?style=for-the-badge&labelColor=0A0A0A"/>
 </p>
 
-## 💌 about
+## 💗 About Me
 
-```python
-class RiddhimaTripathi:
-    def __init__(self):
-        self.name = "Riddhima Tripathi"
-        self.username = "RiddhimaTripathi45"
-        self.role = "Aspiring AI/ML Developer"
-        self.education = "B.Tech CSE (AI Specialization)"
-        self.year = "2nd Year"
+Hey there! I'm **Riddhima Tripathi**, an aspiring AI/ML Developer and Computer Science student passionate about building intelligent solutions and exploring emerging technologies.
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "Full Stack Development"
-        ]
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (AI Specialization).
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning.
+- 💻 Exploring Full Stack Development and building real-world projects.
+- 🌱 Currently learning Generative AI, LLMs and modern AI technologies.
+- 🧩 Practicing Data Structures & Algorithms and improving problem-solving skills.
+- 🚀 Love turning creative ideas into practical applications.
 
-        self.currently_exploring = [
-            "Large Language Models",
-            "RAG",
-            "Real-world AI Applications"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect.")
-
-me = RiddhimaTripathi()
-me.say_hi()
+**My goal:** To become a skilled AI/ML Engineer and build technology that makes a difference.
 ```
 
 <details>
