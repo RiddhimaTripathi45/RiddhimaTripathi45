@@ -78,55 +78,42 @@ I'm an aspiring AI/ML Developer and Computer Science student passionate about te
 </p>
 
 ---
+<p>
+### <img src="https://img.shields.io/badge/01-REAL--TIME%20SYSTEMS-0891B2?style=for-the-badge"/> Smart EV Charging Management System
+</p>
+**Smart Charging · Station Discovery · Booking Platform**
 
-## 🚀 Featured Projects
+A smart EV charging platform designed to simplify EV charging through station discovery, recommendations and booking features.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <a href="https://github.com/RiddhimaTripathi45/Smart-EV-charging-management-system">
+    <img src="https://img.shields.io/badge/⌘%20SOURCE-555555?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/RiddhimaTripathi45/Smart-EV-charging-management-system">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-334155?style=for-the-badge"/>
+  </a>
+</p>
 
-### ⚡ Smart EV Charging Management System
+**⚡ Key Features**
 
-A smart EV charging platform with station discovery, recommendations and booking features.
+- 🔋 EV charging station discovery
+- 📍 Location-based station recommendations
+- 📅 Charging slot booking functionality
+- 👤 User-friendly charging management interface
+- 🗄️ Database integration using Supabase
 
-**Technologies:** React, TypeScript, Supabase, PostgreSQL
+**Technology Stack**
 
-[View Project](https://github.com/RiddhimaTripathi45/Smart-EV-charging-managment-system)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+**System Architecture**
 
-### 💬 PulseAlpha – Social Media Platform
-
-A full-stack social media application with user profiles, feeds and social interactions.
-
-**Technologies:** Node.js, Express.js, HTML, CSS, JavaScript
-
-[View Project](https://github.com/RiddhimaTripathi45/PulseAlpha-Full-Stack-Social-Media-platform)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 CodeAlpha E-commerce
-
-An e-commerce web development project.
-
-[View Project](https://github.com/RiddhimaTripathi45/CodeAlpha-Ecommerce)
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 CODSOFT
-
-Programming internship projects and coding practice.
-
-[View Project](https://github.com/RiddhimaTripathi45/CODSOFT)
-
-</td>
-</tr>
-</table>
+`React Frontend → Supabase → PostgreSQL Database → EV Charging Data`
 
 ---
 
@@ -135,7 +122,29 @@ Programming internship projects and coding practice.
 **B.Tech – Computer Science & Engineering**
 
 - Specialization: Artificial Intelligence
-- Currently pursuing 2nd Year
+- Currently pursuing 3rd Year
+
+---
+
+## 🧠 Problem Solving
+
+<p align="center">
+  <b>CONSISTENCY · LOGIC · CONTINUOUS IMPROVEMENT</b>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" width="90%" alt="LeetCode Statistics"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LEETCODE-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Practicing DSA regularly and strengthening problem-solving skills through coding challenges.</i>
+</p>
 
 ---
 
@@ -149,16 +158,48 @@ Programming internship projects and coding practice.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RiddhimaTripathi45&theme=tokyonight&background=0D1117&ring=C084FC&fire=A855F7&border=581C87" width="75%"/>
 </p>
-
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ Now · Currently Working On
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiddhimaTripathi45&theme=discord&no-frame=true&no-bg=true&column=6"/>
+  <b>WHAT I'M LEARNING AND BUILDING RIGHT NOW</b>
 </p>
 
+<table align="center" width="90%">
+<tr>
+<th>NO.</th>
+<th>CURRENT FOCUS</th>
+</tr>
+<tr>
+<td>01</td>
+<td>Java + Data Structures & Algorithms</td>
+</tr>
+<tr>
+<td>02</td>
+<td>LeetCode – Daily Problem Solving</td>
+</tr>
+<tr>
+<td>03</td>
+<td>FreshTrack AI – Android App Development</td>
+</tr>
+<tr>
+<td>04</td>
+<td>Generative AI, LLMs and RAG</td>
+</tr>
+<tr>
+<td>05</td>
+<td>Full Stack Development</td>
+</tr>
+<tr>
+<td>06</td>
+<td>Building and improving AI/ML projects</td>
+</tr>
+</table>
+
+> **Mindset:** Learn the fundamentals, understand the system, build practical solutions, test and improve continuously.
 ---
+
 
 ## 🤝 Let's Connect
 
