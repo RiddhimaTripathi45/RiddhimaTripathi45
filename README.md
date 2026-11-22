@@ -1,12 +1,10 @@
 
-<!-- ================= HEADER ================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,50:581C87,100:A21517&height=220&section=header&text=Riddhima%20Tripathi&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Aspiring%20AI%2FML%20Developer%20%7C%20CSE%20Student&descSize=20&descAlignY=65" width="100%" alt="Riddhima Tripathi"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,50:581C87,100:A21517&height=220&section=header&text=Riddhima%20Tripathi&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Aspiring%20AI%2FML%20Developer&descSize=22&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Developer;Exploring+Artificial+Intelligence;Building+Real-World+Projects;Learning+Something+New+Every+Day" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Developer;Exploring+Artificial+Intelligence;Building+Real+World+Projects;Learning+and+Growing+Every+Day" />
 </p>
 
 <p align="center">
@@ -28,43 +26,19 @@
 
 ## 💗 About Me
 
-```python
-class RiddhimaTripathi:
+Hey there! I'm **Riddhima Tripathi** 👋
 
-    def __init__(self):
-        self.name = "Riddhima Tripathi"
-        self.username = "RiddhimaTripathi45"
-        self.role = "Aspiring AI/ML Developer"
-        self.education = "B.Tech CSE (AI Specialization)"
-        self.year = "2nd Year"
+I'm an aspiring AI/ML Developer and Computer Science student passionate about technology, innovation and building intelligent applications.
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Generative AI",
-            "Full Stack Development"
-        ]
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (AI Specialization).
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🧠 Exploring Deep Learning and Generative AI.
+- 💻 Interested in Full Stack Development.
+- 🚀 Building practical projects and real-world applications.
+- 🧩 Practicing Data Structures & Algorithms.
+- 🌱 Always learning and exploring new technologies.
 
-        self.currently_exploring = [
-            "Large Language Models",
-            "RAG",
-            "Real-world AI Applications",
-            "Data Structures & Algorithms"
-        ]
-
-        self.hobbies = [
-            "Building Projects",
-            "Problem Solving",
-            "Learning New Technologies"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect.")
-
-me = RiddhimaTripathi()
-me.say_hi()
-```
+**My Goal:** To become a skilled AI/ML Engineer and build impactful technology solutions.
 
 ---
 
@@ -79,28 +53,28 @@ me.say_hi()
 | 🗄️ Database | MySQL, PostgreSQL |
 | 🛠️ Tools | Git, GitHub, VS Code |
 | 🧠 Problem Solving | Data Structures & Algorithms |
-| 📚 Currently Learning | LLMs, RAG, Advanced AI Concepts |
+| 📚 Exploring | LLMs, RAG, Advanced AI Concepts |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js"/>
 </p>
 
-### Frameworks & Libraries
+**Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,tensorflow"/>
 </p>
 
-### Database & Tools
+**Databases & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode"/>
 </p>
 
 ---
@@ -113,70 +87,42 @@ me.say_hi()
 
 ### ⚡ Smart EV Charging Management System
 
-Full-stack AI-powered EV charging platform.
+A smart EV charging platform with station discovery, recommendations and booking features.
 
-- Smart station recommendations
-- Wait-time prediction
-- Interactive station map
-- Booking management
-- Admin analytics dashboard
+**Technologies:** React, TypeScript, Supabase, PostgreSQL
 
-**Tech Stack:** React, TypeScript, Supabase, PostgreSQL
-
-[View Repository](https://github.com/RiddhimaTripathi45/Smart-EV-charging-managment-system)
+[View Project](https://github.com/RiddhimaTripathi45/Smart-EV-charging-managment-system)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 PulseAlpha – Social Media Platform
 
-Full-stack social media application.
+A full-stack social media application with user profiles, feeds and social interactions.
 
-- User profiles
-- Dynamic feeds
-- Likes and comments
-- Followers system
-- Photo sharing
+**Technologies:** Node.js, Express.js, HTML, CSS, JavaScript
 
-**Tech Stack:** Node.js, Express.js, HTML, CSS, JavaScript
-
-[View Repository](https://github.com/RiddhimaTripathi45/PulseAlpha-Full-Stack-Social-Media-platform)
+[View Project](https://github.com/RiddhimaTripathi45/PulseAlpha-Full-Stack-Social-Media-platform)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 AlphaStore – E-commerce
+### 🛒 CodeAlpha E-commerce
 
-E-commerce web application.
+An e-commerce web development project.
 
-- Product listings
-- Category filters
-- Shopping cart
-- Discount coupons
-- Checkout functionality
-
-**Tech:** Web Development
-
-[View Repository](https://github.com/RiddhimaTripathi45/CodeAlpha-Ecommerce)
+[View Project](https://github.com/RiddhimaTripathi45/CodeAlpha-Ecommerce)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 CODSOFT – Python Internship Projects
+### 💻 CODSOFT
 
-Python programming internship tasks.
+Programming internship projects and coding practice.
 
-- Calculator
-- Password Generator
-- Rock Paper Scissors
-- To-Do List
-
-**Tech Stack:** Python
-
-[View Repository](https://github.com/RiddhimaTripathi45/CODSOFT)
+[View Project](https://github.com/RiddhimaTripathi45/CODSOFT)
 
 </td>
 </tr>
@@ -184,30 +130,24 @@ Python programming internship tasks.
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Education
 
-**Education**
+**B.Tech – Computer Science & Engineering**
 
-- B.Tech in Computer Science & Engineering (AI Specialization)
+- Specialization: Artificial Intelligence
 - Currently pursuing 2nd Year
-
-**Internship**
-
-- Python Programming Intern – CODSOFT
-- Completed internship in 2025
-- Worked on Python programming projects and problem-solving tasks
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RiddhimaTripathi45&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&border_color=581C87&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhimaTripathi45&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=C084FC&border_color=581C87" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RiddhimaTripathi45&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&border_color=581C87"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhimaTripathi45&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=C084FC&border_color=581C87"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RiddhimaTripathi45&theme=tokyonight&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&border=581C87" width="75%"/>
+  <img src="https://streak-stats.demolab.com?user=RiddhimaTripathi45&theme=tokyonight&background=0D1117&ring=C084FC&fire=A855F7&border=581C87" width="75%"/>
 </p>
 
 ---
@@ -215,7 +155,7 @@ Python programming internship tasks.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RiddhimaTripathi45&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RiddhimaTripathi45&theme=discord&no-frame=true&no-bg=true&column=6"/>
 </p>
 
 ---
@@ -237,8 +177,4 @@ Python programming internship tasks.
 
 <p align="center">
   <b>✨ Keep Learning. Keep Building. Keep Growing. ✨</b>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my GitHub profile! 💜</i>
 </p>
