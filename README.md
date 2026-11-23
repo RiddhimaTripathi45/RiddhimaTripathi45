@@ -146,7 +146,7 @@ An intelligent fake news detection system that uses Natural Language Processing 
 </br>
 
 <p>
-  <img src="https://img.shields.io/badge/01-REAL--TIME%20SYSTEMS-0891B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/02-REAL--TIME%20SYSTEMS-0891B2?style=for-the-badge"/>
 </p>
 
 <h2>⚡ Smart EV Charging Management System</h2>
