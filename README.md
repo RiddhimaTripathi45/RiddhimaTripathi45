@@ -83,9 +83,67 @@ I'm an aspiring AI/ML Developer and Computer Science student passionate about te
 
 <h2>🚀 Projects</h2>
 
-<p>FOUR SELECTED BUILDS · REAL-WORLD ENGINEERING & DEVELOPMENT</p>
+<p>SELECTED PROJECTS · BUILDING WITH AI & TECHNOLOGYT</p>
 
 <br/>
+
+<hr/>
+
+<p>
+  <img src="https://img.shields.io/badge/01-ARTIFICIAL%20INTELLIGENCE-8B5CF6?style=for-the-badge"/>
+</p>
+
+<h2>🔍 TruthLens AI – Fake News Detection using LSTM</h2>
+
+**AI-Powered News Classification · NLP · Deep Learning**
+
+An intelligent fake news detection system that uses Natural Language Processing and LSTM deep learning to classify news articles as Real or Fake.
+
+<p>
+  <a href="https://github.com/RiddhimaTripathi45/fake-news-detection-lstm">
+    <img src="https://img.shields.io/badge/⌘%20SOURCE-555555?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/RiddhimaTripathi45/fake-news-detection-lstm">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-334155?style=for-the-badge"/>
+  </a>
+</p>
+
+### 🧠 Key Features
+
+- 📰 News article input and classification
+- 🤖 LSTM-based deep learning model
+- 🔤 NLP text preprocessing and tokenization
+- 📊 Real / Fake prediction with confidence score
+- 🌐 Interactive Flask web interface
+
+### 🛠️ Technology Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,html,css,js"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### 🏗️ System Architecture
+
+<table align="center">
+<tr>
+<td align="center">📰<br/><b>News Input</b></td>
+<td>→</td>
+<td align="center">🔤<br/><b>Text Preprocessing</b></td>
+<td>→</td>
+<td align="center">🧠<br/><b>LSTM Model</b></td>
+<td>→</td>
+<td align="center">📊<br/><b>Prediction</b></td>
+</tr>
+</table>
+
+<hr/>
+</br>
 
 <p>
   <img src="https://img.shields.io/badge/01-REAL--TIME%20SYSTEMS-0891B2?style=for-the-badge"/>
